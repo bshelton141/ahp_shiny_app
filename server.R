@@ -104,7 +104,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -123,7 +123,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -142,7 +142,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -161,7 +161,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -180,7 +180,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -199,7 +199,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -218,7 +218,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -237,7 +237,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -256,7 +256,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -275,7 +275,7 @@ shinyServer(function(input, output){
                             "1/5 (Moderately less important)",
                             "1/7 (Much less important)",
                             "1/9 (Extremely less important)"),
-               value = "1 (Equally as important)")
+               selected = "1 (Equally as important)")
     
   })
   
@@ -302,7 +302,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -322,7 +322,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -342,7 +342,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -362,7 +362,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -382,7 +382,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -402,7 +402,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -422,7 +422,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -442,7 +442,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -462,7 +462,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -482,7 +482,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -502,7 +502,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -522,7 +522,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -543,7 +543,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -563,7 +563,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -583,7 +583,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -603,7 +603,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -623,7 +623,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -643,7 +643,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -663,7 +663,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -683,7 +683,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -703,7 +703,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -723,7 +723,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -743,7 +743,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -763,7 +763,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -783,7 +783,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -803,7 +803,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -823,7 +823,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -843,7 +843,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -863,7 +863,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
@@ -883,7 +883,7 @@ shinyServer(function(input, output){
                   "1/5 (Moderately worse)",
                   "1/7 (Much worse)",
                   "1/9 (Extremely worse)"),
-                  value = "1 (Equally as well)")
+                  selected = "1 (Equally as well)")
     
   })
   
